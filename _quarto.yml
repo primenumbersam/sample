@@ -11,7 +11,15 @@ website:
       - about.qmd
       - href: about.qmd
         text: another about
-
+    tools:
+      - icon: twitter
+        href: https://twitter.com
+      - icon: github
+        menu:
+          - text: Source Code
+            href:  https://code.com
+          - text: Report a Bug
+            href:  https://bugs.com
 format:
   html:
     theme: cosmo
